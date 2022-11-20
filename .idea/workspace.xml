@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="587a6db2-c746-4a37-a193-31731ad4c2e5" name="Changes" comment="First Program in JAVA Learning">
-      <change afterPath="$PROJECT_DIR$/src/CollartzConjecture.java" afterDir="false" />
+    <list default="true" id="587a6db2-c746-4a37-a193-31731ad4c2e5" name="Changes" comment="Update CollartzConjecture.java">
+      <change afterPath="$PROJECT_DIR$/src/Typecasting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/evenOrOdd.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -29,14 +30,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "D:/JAVA/FirstProgram"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/JAVA/FirstProgram&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -47,7 +48,9 @@
       <updated>1668177751059</updated>
       <workItem from="1668177752615" duration="1289000" />
       <workItem from="1668180904216" duration="254000" />
-      <workItem from="1668348227426" duration="1627000" />
+      <workItem from="1668348227426" duration="3708000" />
+      <workItem from="1668703484586" duration="687000" />
+      <workItem from="1668796089506" duration="49000" />
     </task>
     <task id="LOCAL-00001" summary="First Program in JAVA Learning">
       <created>1668178634931</created>
@@ -56,7 +59,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668178634931</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Update CollartzConjecture.java">
+      <created>1668351995183</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1668351995183</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -75,6 +85,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First Program in JAVA Learning" />
-    <option name="LAST_COMMIT_MESSAGE" value="First Program in JAVA Learning" />
+    <MESSAGE value="Update CollartzConjecture.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update CollartzConjecture.java" />
   </component>
 </project>
